@@ -51,7 +51,7 @@ python3 Richu_Final_Working_Email.py
 ---
 ## 📫 Email Alerts:
 
--Alerts are sent if any of the following conditions are met:
+Alerts are sent if any of the following conditions are met:
 
     Temperature > 30°C
 
@@ -59,7 +59,7 @@ python3 Richu_Final_Working_Email.py
 
     Pressure < 900 hPa
 
--You can customize these thresholds in the script.
+You can customize these thresholds in the script.
 ---
 ## 🧪 Sensor Calibration:
 
